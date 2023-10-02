@@ -25,4 +25,5 @@ conda install numpy pandas jupyter
 ```
 ### Homework solutons
 - [Week1](Week1)
-
+- [Week2](Week2)
+- [Week3](Week3)
