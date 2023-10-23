@@ -29,3 +29,4 @@ conda install numpy pandas jupyter
 - [Week3](Week3)
 - [Week4](Week4)
 - [Week5](Week5)
+- [Week6](Week6)
